@@ -1,2 +1,6 @@
 zmiana7b
 naprawa
+i
+dodano asystenta pomocy
+interfejs graficzny
+easierApp
