@@ -4,3 +4,5 @@ i
 dodano asystenta pomocy
 interfejs graficzny
 easierApp
+
+zmiana8
