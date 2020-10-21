@@ -6,3 +6,4 @@ interfejs graficzny
 easierApp
 
 zmiana8
+zmiana9
