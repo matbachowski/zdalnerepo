@@ -10,3 +10,4 @@ zmiana9
 zmiana10a
 zmiana12wclonie
 zmiana13
+zmiana14
